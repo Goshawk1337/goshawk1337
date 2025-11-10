@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zsombor</h1>
-<h3 align="center">wannabe back-end developer from hungary</h3>
+<h3 align="center">High school student from hungary</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=goshawk1337&label=Profile%20views&color=0e75b6&style=flat" alt="goshawk1337" /> </p>
 
