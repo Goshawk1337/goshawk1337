@@ -12,9 +12,9 @@
  
 
 <h3 align="left">Languages and Tools:</h3>
- 
+   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src=" https://cdn.worldvectorlogo.com/logos/react-2.svg
+" alt="tailwind" width="40" height="40"/> </a>  
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>  
-
 <h3>I work with:</h3>
 <p align="left">
  
